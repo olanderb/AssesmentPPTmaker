@@ -7,3 +7,7 @@ Lots more to do here - but the proof of concept is : given SPSS survey data and 
 1. Create a generic version which works with standardized name variables
 2. Create editable graphics/maps/stuff
 
+## To try it out
+
+1.  Run []()
+
