@@ -9,5 +9,5 @@ Lots more to do here - but the proof of concept is : given SPSS survey data and 
 
 ## To try it out
 
-1.  Run []()
+1.  Take [this](https://github.com/olanderb/SurveyData2PPT/blob/main/ENSApresentation_branded.Rmd) for a run.
 
