@@ -1,6 +1,6 @@
 # Making WFP Branded Presentations out of Survey Data 
 
-Lots more to do here - but the proof of concept is : given SPSS survey data and some R syntax - a user can produce the key findings of a survey .
+Lots more to do here - but the proof of concept is : given SPSS survey data and some R syntax - a user can quickly and reproducibly produce the key findings (including graphics and maps) of a survey .
 
 ## Need to :
 
